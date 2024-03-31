@@ -1,1 +1,1 @@
-# keras-fashion-mnist
+# Tensorflow & Keras - Fashion-MNIST
